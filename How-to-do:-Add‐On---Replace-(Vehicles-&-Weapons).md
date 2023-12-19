@@ -356,10 +356,10 @@ SIMPLIFIED TUTORIAL
 | INDEX
 |:-------------:|
 
-- `Knowledge` **[What contains Add-On/Replace Base Folder?](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-contains-add-on-replace-base-folder)**
+- `Knowledge` **[What contains Add-On/Replace Base Folder?](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-contains-add-onreplace-base-folder-1)**
   - Vehicles
   - Weapons
-- `Tutorial` **[CREATE YOUR OWN ADD-ON VEHICLES PACK](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-create-your-own-add-on-vehicles-pack-1)**
+- `Tutorial` **[CREATE YOUR OWN ADD-ON VEHICLES PACK](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-create-your-own-add-on-pack-1)**
 - `Tutorial` **[REPLACER to ADD-ON Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-vehicles-1)**
 - `Tutorial` **[ADD-ON to REPLACER Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replacer-vehicles-1)**
 
