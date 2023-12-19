@@ -7,6 +7,8 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 
 **`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
 
+
+- `SIMPLIFIED TUTORIAL` **[Simplified tutorial for vehicles WITH SCREENSHOTS](simplified-tutorial)**
  
 | INDEX
 |:-:|
@@ -28,7 +30,7 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 - `Tutorial` **[REPLACER to ADD-ON Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-vehicles)**
 - `Tutorial` **[ADD-ON to REPLACER Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replacer-vehicles)**
 - `Tutorial` **[REPLACER to ADD-ON MELEE Weapons](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-melee-weapons)**
-- `Tutorial` **[ADD-ON to REPLACE MELEE Weapons](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replace-melee-weapons)**
+- `Tutorial` **[ADD-ON to REPLACE MELEE Weapons](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replace---melee-weapons)**
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
@@ -334,6 +336,227 @@ This method is very simple and you have 2 ways to do it, just use ONE of the bel
 **Step :two: (Stressfull):** Change all **"knifeADD"** words inside each DATA file to **"knife"**. Then copy/paste every DATA lines from every DATA file to his respective file located in any of the **"patchdayXng"**, replacing old lines.
 
 --------------------------------------------------------------------------------------------------------------
+
+**You finished!!** :grinning:
+
+--------------------------------------------------------------------------------------------------------------
+
+SIMPLIFIED TUTORIAL
+-
+
+| :anger: :anger: Start of the simplified tutorial :anger: :anger:
+|:-------------:|
+
+**`WARNING`**: If you're new in GTA Modding world, please take a look at **[this tutorial](https://forums.gta5-mods.com/topic/1451/tutorial-a-few-things-you-should-learn-to-do-properly-when-installing-mods)** before you start reading me. 
+
+
+**`WARNING 2`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
+
+ 
+| INDEX
+|:-------------:|
+
+- `Knowledge` **[What contains Add-On/Replace Base Folder?](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-contains-add-on-replace-base-folder)**
+  - Vehicles
+  - Weapons
+- `Tutorial` **[CREATE YOUR OWN ADD-ON VEHICLES PACK](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-create-your-own-add-on-vehicles-pack)**
+- `Tutorial` **[REPLACER to ADD-ON Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-vehicles)**
+- `Tutorial` **[ADD-ON to REPLACER Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replacer-vehicles)**
+
+**___________________________________________________________________________________________________________________________________________________________________________**
+
+`Knowledge`: **What contains Add-On/Replace Base Folder?**
+-
+
+| File Name | Description | Knowledge |
+|----------|:-------------:|------:|
+|  | **VEHICLES** |  |
+| Vehicles DLC Folder | *You'll need to edit normal META files and add vehicles files as always, but also edit "***content.xml***" file each time you add Tuning Parts for any car.* | Basic |
+| Vehicles DLC Folder **#2** | You won't need to edit "***content.xml***" file. That's because with this method you only need to put tuning part files (**NO** entire **`vehiclename_mods.rpf`** files, **YES** **`.ytd/.ytf`** one's) on **`tuning_mods.rpf`** file. | Medium |
+| Vehicles DLC Folder **#4** | Is almost the same as the first one, **BUT**, with this, you'll be able to use ***MPLUXE*** vehicles as Add-On's, like ***Pagani Huayra*** by ***Vans123***. **Also**, now you can add vehicles from ***MPHEIST***, like ***M1116 Humvee*** by ***SkylineGTRFreak*** without crashes and totally functional. That's something that with the first one you can't do, otherwise your game will crash. | Advanced |
+|  | **WEAPONS** |  |
+| Weapons DLC Folder | Here you can put ***melee weapons***. Don't try with gunfire weapons, won't work.  | Basic |
+| **Melee** Weapons DLC Folder | Same as before, but this one is provided by @yeahhmonkey and ***should work better***. | Basic |
+| **Assault** Weapons DLC Folder | Here you can put **only Assault (gunfire)** weapons. Again provided by @yeahhmonkey. | Basic |
+
+----
+
+Before you use the tutorial below, remember that if you want to convert a **"mpluxe"** Replacer car mod like **Pagani Huayra by Vans123** to an Add-On, **you should use "Vehicles DLC Folder #4" from my [Add-On / Replace Base Folder](https://es.gta5-mods.com/tools/add-on-replace-base-folder) mod. (MOST RECOMMENDED OPTION)** 
+
+**___________________________________________________________________________________________________________________________________________________________________________**
+
+| `TUTORIAL:` **CREATE YOUR OWN ADD-ON PACK** 
+|:-------------:|
+
+**`BEFORE YOU START:`** If is the first time you will do an Add-On Pack, follow all the steps above. When you complete that, verify that your Add-On is working fine before you add more vehicles into it.
+
+**`IF YOU ALREADY HAVE AN ADD-ON WHERE YOU WOULD LIKE TO ADD MORE CARS:`** In that case, just start directly from the **Step 6** (`Don't forget to read the WARNING that's just above this Step`). 
+
+**Step :one::** **[Download this file as a base for your Add-On's](https://es.gta5-mods.com/tools/add-on-replace-base-folder).**
+
+**Step :two::** Choose one of the options (ZIP files) inside, unzip it and take the **dlc.rpf** file.
+
+**Step :three::** Open **OpenIV**, go to "`/mods/update/x64/dlcpacks/`", create a **new folder** called **ADDONS** and put into it the "**dlc.rpf**" file.
+
+**Step :four::** Go to "`/update.rpf/common/data/`" and export "**dlclist.xml**" to anywhere you want on your system.
+
+**Step :five::** Use a text editor as **[Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)** and edit the file adding the next line (Change ***FOLDERNAME*** to the name you put to your DLC folder (Named in Step :three:):
+
+For "**dlclist.xml**": 
+
+		<Item>dlcpacks:\FOLDERNAME\</Item>        
+
+Save changes and put it back to directory mentioned in **Step :four:**.
+
+**Step :six::** Edit "**content.xml**" and "**setup2.xml**" files and change each "**FOLDERNAME**" word that you find  with **ADDONS**. Otherwise, your game will crash.
+
+
+## **Content.xml** file
+![content.xml](http://i.imgur.com/u9quf3v.png)
+
+## **Setup2.xml** file
+![setup2.xml](http://i.imgur.com/3QbXCgu.png)
+
+**Now you have a BASE folder to put replace cars files and data inside as Add-On's.**
+
+**Step :seven::**  Rename "**car.ytf/.ytd**" files, for example "**chall.ytd/.ytf**" (Chall = Challenger), and put them into "**`/FOLDERNAME/dlc.rpf/x64/vehicles.rpf`**". Do the same process with "**car_mods.rpf**" files, but put them into "**`/FOLDERNAME/dlc.rpf/x64/vehiclemods`**" (Don't forget to rename files inside "**car_mods.rpf**", otherwise, they'll conflict with another car tuning parts).
+
+## **vehicles.rpf** file
+![vehicles.rpf](http://i.imgur.com/VCkD199.png)
+
+## **vehiclemods** folder
+![challenger_mods.rpf](http://i.imgur.com/mGjvkP4.png)
+
+**Step :eight::** Add **data** from the new car **(if the car you want to put as Add-On didn't have data when you downloaded it, take data from the original game car that it replaces)** to "**vehicles.meta", "carcols.meta", carvariations.meta**" and "**handling.meta**", which located in "**`/FOLDERNAME/dlc.rpf/data/`**" editing them with any text editor (This path is supposed to be the place where the DATA files (.meta) of your Add-On should be).
+
+## **Example:** carvariations.meta
+![carvariations.meta](http://i.imgur.com/HyY8mPM.png)
+
+
+**Step :nine:** (SKIP this if your car does not have Tuning Parts)**:** Go to "**`/FOLDERNAME/dlc.rpf/`**",  export "**content.xml**" file, edit it with **Notepad++** or any other editor and add these lines:
+
+For "**dataFiles**" section:
+
+		<Item> 
+	          <filename>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</filename> 
+	          <fileType>RPF_FILE</fileType> 
+	          <locked value="true"/>
+	          <disabled value="true"/>
+	          <persistent value="true"/>
+	          <overlay value="true"/>
+	        </Item>
+
+For "**filesToEnable**" section:
+
+		<Item>dlc_TUNING:/%PLATFORM%/vehiclemods/car_mods.rpf</Item>        
+
+***Finally, if you did all correctly, you can try your new Add-On car ;)***
+
+**___________________________________________________________________________________________________________________________________________________________________________**
+
+| `TUTORIAL:` **REPLACER** to **ADD-ON** Vehicles
+|:-------------:|
+
+**Step :one::** **[Download this file as a base for your Add-On's](https://es.gta5-mods.com/tools/add-on-replace-base-folder).**
+
+**Step :two::** Choose one of the options (ZIP files) inside, unzip it and take the **dlc.rpf** file.
+
+**Step :three::** Open **OpenIV**, go to "`/mods/update/x64/dlcpacks/`", create a **new folder** called **ADDONS** and put into it the "**dlc.rpf**" file.
+
+**Step :four::** Go to "`/update.rpf/common/data/`" and export "**dlclist.xml**" to anywhere you want on your system.
+
+**Step :five::** Use a text editor as **[Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)** and edit the file adding the next line (Change ***FOLDERNAME*** to the name you put to your DLC folder (Named in Step :three:):
+
+For "**dlclist.xml**": 
+
+		<Item>dlcpacks:\FOLDERNAME\</Item>        
+
+Save changes and put it back to directory mentioned in **Step :four:**.
+
+**Step :six::** Edit "**content.xml**" and "**setup2.xml**" files and change each "**FOLDERNAME**" word that you find  with **ADDONS**. Otherwise, your game will crash.
+
+
+## **Content.xml** file
+![content.xml](http://i.imgur.com/u9quf3v.png)
+
+## **Setup2.xml** file
+![setup2.xml](http://i.imgur.com/3QbXCgu.png)
+
+**Now you have a BASE folder to put replace cars files and data inside as Add-On's.**
+
+**Step :seven::**  Rename "**car.ytf/.ytd**" files, for example "**chall.ytd/.ytf**" (Chall = Challenger), and put them into "**`/FOLDERNAME/dlc.rpf/x64/vehicles.rpf`**". Do the same process with "**car_mods.rpf**" files, but put them into "**`/FOLDERNAME/dlc.rpf/x64/vehiclemods`**" (Don't forget to rename files inside "**car_mods.rpf**", otherwise, they'll conflict with another car tuning parts).
+
+## **vehicles.rpf** file
+![vehicles.rpf](http://i.imgur.com/VCkD199.png)
+
+## **vehiclemods** folder
+![challenger_mods.rpf](http://i.imgur.com/mGjvkP4.png)
+
+**Step :eight::** Add **data** from the new car **(if the car you want to put as Add-On didn't have data when you downloaded it, take data from the original game car that it replaces)** to "**vehicles.meta", "carcols.meta", carvariations.meta**" and "**handling.meta**", which located in "**`/FOLDERNAME/dlc.rpf/data/`**" editing them with any text editor (This path is supposed to be the place where the DATA files (.meta) of your Add-On should be).
+
+## **Example:** carvariations.meta
+![carvariations.meta](http://i.imgur.com/HyY8mPM.png)
+
+
+**Step :nine:** (SKIP this if your car does not have Tuning Parts)**:** Go to "**`/FOLDERNAME/dlc.rpf/`**",  export "**content.xml**" file, edit it with **Notepad++** or any other editor and add these lines:
+
+For "**dataFiles**" section:
+
+		<Item> 
+	          <filename>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</filename> 
+	          <fileType>RPF_FILE</fileType> 
+	          <locked value="true"/>
+	          <disabled value="true"/>
+	          <persistent value="true"/>
+	          <overlay value="true"/>
+	        </Item>
+
+For "**filesToEnable**" section:
+
+		<Item>dlc_TUNING:/%PLATFORM%/vehiclemods/car_mods.rpf</Item>        
+
+***Finally, if you did all correctly, you can try your new Add-On car ;)***
+
+**___________________________________________________________________________________________________________________________________________________________________________**
+
+| `TUTORIAL:` **ADD-ON** to **REPLACER** Vehicles
+|:-------------:|
+
+**Step :one::** First, you need to download your desired file, for example, let's take the [**Ford GT 2005** by **Aige**](https://es.gta5-mods.com/vehicles/2005-ford-gt-aige).
+
+**Step :two::**  Unzip it and open "**dlc.rpf**" file with **OpenIV**.
+
+**Step :three::** Find "**fgt.ytd/.ytf**" files using **Ctrl + F3**, **export** these where you want and rename them to "**bullet.ytd/.ytf**" . Do the same but with "**fgt_mods.rpf**" file. (**Don't close "dlc.rpf" file opened with OpenIV yet, because we'll take DATA info for Tuning Parts later**).
+
+**Step :four::** Open another **OpenIV** and search for "**bullet.**" files using **Ctrl + F3**, and replace **the most recent files found** with the one's you exported on **Step :three:** (**Be sure that exported files have "bullet" word as name, or they won't replace Bullet car**).
+
+**NOTE: If you have a DLC folder made by yourselves (As in the tutorial above) you can do below steps there. If not, do it on any DLC folder you want:**
+
+**Step :five::** Put "**bullet_mods.rpf**" file into "**vehiclemods**" folder (Usually: "`/dlc.rpf/x64/levels/FOLDERNAME/vehiclemods/`"  path).
+
+**Step :six::** Add all content from "**carvariations.meta**" and "**carcols.meta**" files, which are located inside of the "**dlc.rpf**" file mentioned in **Step :two:**, to the "**carvariations.meta**" and "**carcols.meta**" files that are located inside the DLC **where you installed Tuning Parts file** (Be sure that the car name that appears on data files is BULLET). 
+
+Don't forget to edit lines for Bullet in "**vehicles.meta**" file located into "`/update/update.rpf/common/data/levels/gta5`" with the new ones provided with the downloaded file in **Step :one:** if you want dials and other things working correctly (Be sure that the car name that appears on data files is BULLET).
+
+**Step :seven::** Export "**content.xml**" file, edit with **Notepad++** or any other editor and add these lines (LOOK for correct path, sometimes is different, and replace FOLDERNAME with the name of the DLC)**:**
+
+For "**dataFiles**" section:
+
+		<Item> 
+	         <filename>dlc_FOLDERNAME:/%PLATFORM%/levels/FOLDERNAME/vehiclemods/bullet_mods.rpf</filename> 
+	          <fileType>RPF_FILE</fileType> 
+	          <locked value="true"/>
+              <disabled value="true"/>
+              <persistent value="true"/>
+              <overlay value="true"/>
+	        </Item>
+
+For "**filesToEnable**" section:
+
+		<Item>dlc_FOLDERNAME:/%PLATFORM%/levels/FOLDERNAME/vehiclemods/bullet_mods.rpf</Item>
+
+**___________________________________________________________________________________________________________________________________________________________________________**
+
 
 **You finished!!** :grinning:
 
