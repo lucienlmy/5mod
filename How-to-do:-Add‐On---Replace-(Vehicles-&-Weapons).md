@@ -11,7 +11,7 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 | INDEX
 |:-:|
 
-- `Knowledge` **What I need to know before asking for help**
+- `Knowledge` **[What I need to know before asking for help](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-i-need-to-know-before-asking-for-help)**
   - *How can I fix this error?*
   - *How can I spawn ADD-ON Vehicles or Weapons?*
   - *Which bugs can do my life harder?*
@@ -20,15 +20,15 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
   - *Why my game crashes when I try to go into an Add-On vehicle?*
   - *Where I can find the DATA for each car I want to put as Add-On?*
   - *My vehicle have some strange/missplaced corona's on headlights and taillights, how I fix that?*
-- `Knowledge` **What I need before start using this method**
-- `Knowledge` **What contains Add-On/Replace Base Folder?**
+- `Knowledge` **[What I need before start using this method](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-i-need-before-start-using-this-method)**
+- `Knowledge` **[What contains Add-On/Replace Base Folder?](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#knowledge-what-contains-add-onreplace-base-folder)**
   - Vehicles
   - Weapons
-- `Tutorial` **CREATE YOUR OWN ADD-ON VEHICLES PACK**
-- `Tutorial` **REPLACER to ADD-ON Vehicles**
-- `Tutorial` **ADD-ON to REPLACER Vehicles**
-- `Tutorial` **REPLACER to ADD-ON MELEE Weapons**
-- `Tutorial` **ADD-ON to REPLACE MELEE Weapons**
+- `Tutorial` **[CREATE YOUR OWN ADD-ON VEHICLES PACK](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-create-your-own-add-on-pack)**
+- `Tutorial` **[REPLACER to ADD-ON Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-vehicles)**
+- `Tutorial` **[ADD-ON to REPLACER Vehicles](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replacer-vehicles)**
+- `Tutorial` **[REPLACER to ADD-ON MELEE Weapons](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-replacer-to-add-on-melee-weapons)**
+- `Tutorial` **[ADD-ON to REPLACE MELEE Weapons](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#tutorial-add-on-to-replace-melee-weapons)**
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
