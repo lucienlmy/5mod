@@ -34,6 +34,7 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 
 | `Knowledge`: **What I need to know before asking for help?**
 |:-:|
+-
 
 ***How can I fix this error?***
 
