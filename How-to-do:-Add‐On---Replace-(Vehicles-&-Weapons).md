@@ -385,8 +385,8 @@ Before you use the tutorial below, remember that if you want to convert a **"mpl
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `TUTORIAL:` **CREATE YOUR OWN ADD-ON PACK** 
-|:-------------:|
+`TUTORIAL:` **CREATE YOUR OWN ADD-ON PACK** 
+-
 
 **`BEFORE YOU START:`** If is the first time you will do an Add-On Pack, follow all the steps above. When you complete that, verify that your Add-On is working fine before you add more vehicles into it.
 
@@ -454,8 +454,8 @@ For "**filesToEnable**" section:
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `TUTORIAL:` **REPLACER** to **ADD-ON** Vehicles
-|:-------------:|
+`TUTORIAL:` **REPLACER** to **ADD-ON** Vehicles
+-
 
 **Step :one::** **[Download this file as a base for your Add-On's](https://es.gta5-mods.com/tools/add-on-replace-base-folder).**
 
@@ -519,8 +519,8 @@ For "**filesToEnable**" section:
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `TUTORIAL:` **ADD-ON** to **REPLACER** Vehicles
-|:-------------:|
+`TUTORIAL:` **ADD-ON** to **REPLACER** Vehicles
+-
 
 **Step :one::** First, you need to download your desired file, for example, let's take the [**Ford GT 2005** by **Aige**](https://es.gta5-mods.com/vehicles/2005-ford-gt-aige).
 
