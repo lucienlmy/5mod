@@ -32,10 +32,8 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Knowledge`: **What I need to know before asking for help?**
-|:-:|
+`Knowledge`: **What I need to know before asking for help?**
 -
-
 ***How can I fix this error?***
 
 - **`ERR_FIL_PACK_1`:** The total of vehicles that the game try to load is higher than the default limit, or you're using a **SCRIPT** mod that's  incompatible with the most recent game version.
@@ -77,16 +75,16 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 
 - That's pretty easy, just open your ***carvariations.meta*** file with Notepad++ or any other text editor and replace the line similar to `<lightSettings value="918" />` ("918" value can be another value in your case) with `<lightSettings value="0" />`. This will remove that shit tailights and will align headlights.
 
-| `Knowledge`: **What I need before start using this method?**
-|:-:|
+`Knowledge`: **What I need before start using this method?**
+-
 
 - [OpenIV](http://openiv.com/) ***(Mandatory)***
 - [NVE's Gameconfig](https://www.razedmods.com/gta-v) ***(MUST-HAVE to avoid game crashes)***. You will download the full mod but you only need to get the gameconfig from the OPTIONALS folder that's inside the package. Has been hard tested and works perfectly fine in every case.
 - [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html) or any other text editor ***(Mandatory)***
 - ****Keep calm**** during the process ***(Mandatory)***
 
-| `Knowledge`: **What contains Add-On/Replace Base Folder?**
-|:-:|
+`Knowledge`: **What contains Add-On/Replace Base Folder?**
+-
 
 | File Name | Description | Knowledge |
 |:-|:-:|-:|
@@ -105,8 +103,8 @@ Before you use the tutorial below, remember that if you want to convert a **"mpl
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Tutorial`: **CREATE YOUR OWN ADD-ON PACK** 
-|:-:|
+`Tutorial`: **CREATE YOUR OWN ADD-ON PACK** 
+-
 
 **`BEFORE YOU START:`** If is the first time you will do an Add-On Pack, follow all the steps below. When you complete that, verify that your Add-On is working fine before you add more vehicles into it.
 
@@ -159,8 +157,8 @@ For "**filesToEnable**" section:
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Tutorial`: **REPLACER** to **ADD-ON** Vehicles
-|:-:|
+`Tutorial`: **REPLACER** to **ADD-ON** Vehicles
+-
 
 **Step :one::** **[Download this file as a base for your Add-On's](https://es.gta5-mods.com/tools/add-on-replace-base-folder).**
 
@@ -207,8 +205,8 @@ For "**filesToEnable**" section:
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Tutorial`: **ADD-ON** to **REPLACER** Vehicles
-|:-:|
+`Tutorial`: **ADD-ON** to **REPLACER** Vehicles
+-
 
 **`BEFORE YOU START:`** If it's the first time you will do a replace vehicles folder, follow all the steps below. When you complete that, verify that your replace vehicle is working fine before you add more vehicles into it.
 
@@ -287,8 +285,8 @@ For "**filesToEnable**" section:
 |:-:|
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Tutorial`: **REPLACER** to **ADD-ON** MELEE Weapons
-|:-:|
+`Tutorial`: **REPLACER** to **ADD-ON** MELEE Weapons
+-
 
 | :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger: WARNING :anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger::anger:
 |:-:|
@@ -318,8 +316,8 @@ For "**dlclist.xml**":
 
 **___________________________________________________________________________________________________________________________________________________________________________**
 
-| `Tutorial`: ADD-ON to REPLACE - MELEE Weapons
-|:-:|
+`Tutorial`: ADD-ON to REPLACE - MELEE Weapons
+-
 
 This method is very simple and you have 2 ways to do it, just use ONE of the below (I really recommend the FIRST WAY, is the easiest and fastest one):
 
@@ -340,19 +338,5 @@ This method is very simple and you have 2 ways to do it, just use ONE of the bel
 **You finished!!** :grinning:
 
 --------------------------------------------------------------------------------------------------------------
-
-| `POLL`: ¿How can I improve this tutorial?
-|:-:|
-
-**You're free to help me improve this tutorial or help others, as @yeahhmonkey and more awesome people did already ;).**
-
-**I want to convert this tutorial as a base/resource for GTA V modding, so, if you have more information about other GTA V errors, please provide it to me or add a comment here, so I can read and add it to this Tutorial.**
-
-To make it easier, just copy/paste and replace the following lines of code with the specific information on each part:
-
-    - **`ERROR NAME HERE`:** Definition about why it happens here (If you have no idea, write VOID). 
-    ***How to fix that?*** Here your explanation about how to fix it (If you have no idea, write VOID).
-
-**___________________________________________________________________________________________________________________________________________________________________________**
 
 ***`If I missed something or you're having problems using this method, please leave a comment.`***
