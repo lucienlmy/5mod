@@ -347,7 +347,7 @@ SIMPLIFIED TUTORIAL
 | :anger: :anger: Start of the simplified tutorial :anger: :anger:
 |:-------------:|
 
-**`WARNING`**: If you're new in GTA Modding world, please take a look at **[this tutorial](https://forums.gta5-mods.com/topic/1451/tutorial-a-few-things-you-should-learn-to-do-properly-when-installing-mods)** before you start reading me. 
+**`WARNING`**: If you're new in GTA Modding world, please take a look at **[this tutorial](https://github.com/5mods/tutorials/wiki/Quick-start-overview-of-modding-Grand-Theft-Auto-V)** before you start reading me. 
 
 **`WARNING 2`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
  
