@@ -6,9 +6,9 @@ Original post by [Reyser](https://www.gta5-mods.com/users/Reyser) at GTA5-Mods.c
 Hello guys! This tutorial will help you to make the tedious GTA Modding a bit easier :)
 
 | If you want a simplified (`With Screenshots`) tutorial for vehicles: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/post/29728) 
-|:-:|
+|:-|
 | **Some TIPS to improve your game PERFORMANCE: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/topic/11455/tips-vehicle-and-script-installed-mods)**
-| **Spanish Translation / Traducción Española: [Click me! / Haz clic! 🇪🇸 ](https://forums.gta5-mods.com/post/28736)**
+| **Spanish Translation / Traducción Española: [:arrow_right: Click me! / Haz clic! 🇪🇸 :arrow_left: ](https://forums.gta5-mods.com/post/28736)**
 
 **`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
 
@@ -144,7 +144,7 @@ And now, save changes and put it back to directory mentioned in **Step :four:**.
 
 **Step :eight:** (SKIP this if your car doesn't have Tuning Parts): Once you did steps above, if some of the cars you added have **Tuning Parts** (car_mods.rpf), now go back to "`/FOLDERNAME/dlc.rpf/`",  export "**content.xml**" file, edit with **Notepad++** or any other editor and add these lines **to their respective section:**
 
-For "**<dataFiles>**" section:
+For "**dataFiles**" section:
 
 		<Item> 
 	          <filename>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</filename> 
@@ -155,7 +155,7 @@ For "**<dataFiles>**" section:
 	          <overlay value="true"/>
 	        </Item>
 
-For "**<filesToEnable>**" section:
+For "**filesToEnable**" section:
 
 		<Item>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</Item>        
 
@@ -192,7 +192,7 @@ And now, save changes and put it back to directory mentioned in **Step :four:**.
 
 **Step :eight:** (SKIP this if your car doesn't have Tuning Parts): Once you did steps above, if some of the cars you added have **Tuning Parts** (car_mods.rpf), now go back to "`/FOLDERNAME/dlc.rpf/`",  export "**content.xml**" file, edit with **Notepad++** or any other editor and add these lines **to their respective section:**
 
-For "**<dataFiles>**" section:
+For "**dataFiles**" section:
 
 		<Item> 
 	          <filename>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</filename> 
@@ -203,7 +203,7 @@ For "**<dataFiles>**" section:
 	          <overlay value="true"/>
 	        </Item>
 
-For "**<filesToEnable>**" section:
+For "**filesToEnable**" section:
 
 		<Item>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/car_mods.rpf</Item>        
 
@@ -270,7 +270,7 @@ Once it's done, import them again to the respective paths.
 
 **Step :one::three::** Once you did steps above, now go back to "`/FOLDERNAME/dlc.rpf/`",  export "**content.xml**" file, edit with **Notepad++** or any other editor and add these lines **to their respective section:**
 
-For "**<dataFiles>**" section:
+For "**dataFiles**" section:
 
 		<Item> 
 	          <filename>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/bullet_mods.rpf</filename> 
@@ -281,7 +281,7 @@ For "**<dataFiles>**" section:
 	          <overlay value="true"/>
 	        </Item>
 
-For "**<filesToEnable>**" section:
+For "**filesToEnable**" section:
 
 		<Item>dlc_FOLDERNAME:/%PLATFORM%/vehiclemods/bullet_mods.rpf</Item>        
 
