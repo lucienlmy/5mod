@@ -8,7 +8,7 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 **`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
 
 
-- `SIMPLIFIED TUTORIAL` **[Simplified tutorial for vehicles WITH SCREENSHOTS](simplified-tutorial)**
+- `SIMPLIFIED TUTORIAL` **[Simplified tutorial for vehicles WITH SCREENSHOTS](https://github.com/5mods/tutorials/wiki/How-to-do:-Add%E2%80%90On---Replace-(Vehicles-&-Weapons)#simplified-tutorial)**
  
 | INDEX
 |:-:|
