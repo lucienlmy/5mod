@@ -8,7 +8,7 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 | If you want a simplified (`With Screenshots`) tutorial for vehicles: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/post/29728) 
 |:-:|
 | **Some TIPS to improve your game PERFORMANCE: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/topic/11455/tips-vehicle-and-script-installed-mods)**
-| :flag_ea: **Spanish Translation / Traducción Española: [Click me! / Haz clic! :flag_ea:](https://forums.gta5-mods.com/post/28736)**
+| **Spanish Translation / Traducción Española: [Click me! / Haz clic! 🇪🇸 ](https://forums.gta5-mods.com/post/28736)**
 
 **`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
 
