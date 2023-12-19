@@ -321,7 +321,6 @@ For "**dlclist.xml**":
 |:-:|
 
 This method is very simple and you have 2 ways to do it, just use ONE of the below (I really recommend the FIRST WAY, is the easiest and fastest one):
--
 
 **FIRST WAY (Highly Recommended):**
 
