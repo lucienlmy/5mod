@@ -349,9 +349,7 @@ SIMPLIFIED TUTORIAL
 
 **`WARNING`**: If you're new in GTA Modding world, please take a look at **[this tutorial](https://forums.gta5-mods.com/topic/1451/tutorial-a-few-things-you-should-learn-to-do-properly-when-installing-mods)** before you start reading me. 
 
-
 **`WARNING 2`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
-
  
 | INDEX
 |:-------------:|
@@ -410,26 +408,25 @@ Save changes and put it back to directory mentioned in **Step :four:**.
 
 **Step :six::** Edit "**content.xml**" and "**setup2.xml**" files and change each "**FOLDERNAME**" word that you find  with **ADDONS**. Otherwise, your game will crash.
 
-
-## **Content.xml** file
+**Content.xml** file
 ![content.xml](http://i.imgur.com/u9quf3v.png)
 
-## **Setup2.xml** file
+**Setup2.xml** file
 ![setup2.xml](http://i.imgur.com/3QbXCgu.png)
 
 **Now you have a BASE folder to put replace cars files and data inside as Add-On's.**
 
 **Step :seven::**  Rename "**car.ytf/.ytd**" files, for example "**chall.ytd/.ytf**" (Chall = Challenger), and put them into "**`/FOLDERNAME/dlc.rpf/x64/vehicles.rpf`**". Do the same process with "**car_mods.rpf**" files, but put them into "**`/FOLDERNAME/dlc.rpf/x64/vehiclemods`**" (Don't forget to rename files inside "**car_mods.rpf**", otherwise, they'll conflict with another car tuning parts).
 
-## **vehicles.rpf** file
+**vehicles.rpf** file
 ![vehicles.rpf](http://i.imgur.com/VCkD199.png)
 
-## **vehiclemods** folder
+**vehiclemods** folder
 ![challenger_mods.rpf](http://i.imgur.com/mGjvkP4.png)
 
 **Step :eight::** Add **data** from the new car **(if the car you want to put as Add-On didn't have data when you downloaded it, take data from the original game car that it replaces)** to "**vehicles.meta", "carcols.meta", carvariations.meta**" and "**handling.meta**", which located in "**`/FOLDERNAME/dlc.rpf/data/`**" editing them with any text editor (This path is supposed to be the place where the DATA files (.meta) of your Add-On should be).
 
-## **Example:** carvariations.meta
+**Example:** carvariations.meta
 ![carvariations.meta](http://i.imgur.com/HyY8mPM.png)
 
 
@@ -476,27 +473,26 @@ Save changes and put it back to directory mentioned in **Step :four:**.
 **Step :six::** Edit "**content.xml**" and "**setup2.xml**" files and change each "**FOLDERNAME**" word that you find  with **ADDONS**. Otherwise, your game will crash.
 
 
-## **Content.xml** file
+**Content.xml** file
 ![content.xml](http://i.imgur.com/u9quf3v.png)
 
-## **Setup2.xml** file
+**Setup2.xml** file
 ![setup2.xml](http://i.imgur.com/3QbXCgu.png)
 
 **Now you have a BASE folder to put replace cars files and data inside as Add-On's.**
 
 **Step :seven::**  Rename "**car.ytf/.ytd**" files, for example "**chall.ytd/.ytf**" (Chall = Challenger), and put them into "**`/FOLDERNAME/dlc.rpf/x64/vehicles.rpf`**". Do the same process with "**car_mods.rpf**" files, but put them into "**`/FOLDERNAME/dlc.rpf/x64/vehiclemods`**" (Don't forget to rename files inside "**car_mods.rpf**", otherwise, they'll conflict with another car tuning parts).
 
-## **vehicles.rpf** file
+**vehicles.rpf** file
 ![vehicles.rpf](http://i.imgur.com/VCkD199.png)
 
-## **vehiclemods** folder
+**vehiclemods** folder
 ![challenger_mods.rpf](http://i.imgur.com/mGjvkP4.png)
 
 **Step :eight::** Add **data** from the new car **(if the car you want to put as Add-On didn't have data when you downloaded it, take data from the original game car that it replaces)** to "**vehicles.meta", "carcols.meta", carvariations.meta**" and "**handling.meta**", which located in "**`/FOLDERNAME/dlc.rpf/data/`**" editing them with any text editor (This path is supposed to be the place where the DATA files (.meta) of your Add-On should be).
 
-## **Example:** carvariations.meta
+**Example:** carvariations.meta
 ![carvariations.meta](http://i.imgur.com/HyY8mPM.png)
-
 
 **Step :nine:** (SKIP this if your car does not have Tuning Parts)**:** Go to "**`/FOLDERNAME/dlc.rpf/`**",  export "**content.xml**" file, edit it with **Notepad++** or any other editor and add these lines:
 
