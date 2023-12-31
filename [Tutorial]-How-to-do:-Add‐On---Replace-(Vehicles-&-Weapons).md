@@ -1,0 +1,1 @@
+[https://forums.gta5-mods.com/topic/222/tutorial-how-to-do-add-on-replace-vehicles-weapons](https://forums.gta5-mods.com/topic/222/tutorial-how-to-do-add-on-replace-vehicles-weapons)
