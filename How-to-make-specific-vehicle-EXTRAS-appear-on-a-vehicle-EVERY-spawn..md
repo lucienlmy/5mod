@@ -1,0 +1,59 @@
+**SOME USEFUL VEHICLES.META FLAGS & WHAT THEY DO:**
+
+ - **FLAG_EXTRAS_REQUIRE** - Always spawn ONLY ONE RANDOM EXTRA.
+
+ - **FLAG_EXTRAS_ALL**          - Always spawn ALL EXTRAS.
+
+ - **FLAG_EXTRAS_RARE**       - Spawn ONLY ONE RANDOM EXTRA but ONLY ~15% of the time (~85% of the time no EXTRAS will spawn).
+
+These flags (& any others) are written in the '**vehicles.meta**' '**<flags>**' line like so:
+
+
+```xml
+      <flags>FLAG_EXTRAS_RARE FLAG_SPORTS FLAG_RICH_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
+```
+They should be written all on the same line with a space between each of them.
+
+**FORCE SPECIFIC EXTRAS TO ALWAYS SPAWN:**
+
+To make this happen you need to make two small edits to your vehicle in '**vehicles.meta**'. 
+For this example I'm going to force EXTRA_4 & EXTRA_11 to always spawn but you can just change these values to the extras you want to have spawn (...'>EXTRA_3 EXTRA_5 EXTRA_10<'... etc for example. You can put as many extras as you like in the lines). 
+As with the above flags the EXTRAS (below) are separated with a space.
+
+**1)-** Find the line:
+```xml
+      <extraIncludes />
+```
+& change it to this format:
+```xml
+      <extraIncludes>
+        <Item>EXTRA_4 EXTRA_11</Item>
+      </extraIncludes>
+```
+Now find the line:
+```xml
+      <requiredExtras />
+```
+& change that to this format:
+
+```xml
+      <requiredExtras>EXTRA_4 EXTRA_11</requiredExtras>
+```
+That's it. Now everytime the vehicle spawns EXTRA_4 & EXTRA_11 will ALWAYS spawn also.
+
+**Note:** If either of these edits are missing or incorrect the game will go back to default random extra spawning. Both are required to make it work.
+
+**HOW THESE EDITS WORK IN COMBINATION WITH FLAGS:**
+
+These two settings above work in combination with any flags set in the '**<flags>**' line.
+For example if I was to add '**FLAG_EXTRAS_REQUIRE**' to the '**<flags>**' line also, then EXTRA_4, EXTRA_11 & one random EXTRA would spawn all together on the vehicle. 
+In this scenario it is also possible for the **FLAG_EXTRAS_REQUIRE**'s random extra to also be either EXTRA_4 or EXTRA_11 (rather than a different random extra) resulting in only EXTRA_4 & EXTRA_11 appearing some of the time. 
+If the '**FLAG_EXTRAS_ALL**' flag is used in combination with these edits it will override them & force ALL EXTRAS to appear ALL of the time. 
+For '**FLAG_EXTRAS_RARE**' see below.
+
+**STOPPING SPECIFIC EXTRAS FROM SPAWNING:**
+
+There doesn't seem to be any easy way of doing this in '**vehicles.meta**'. The best I found was using the '**extraIncludes**' & '**requiredExtras**' edits above in combination with '**FLAG_EXTRAS_RARE**' so that ~85%>90% of the time the vehicle spawns with only EXTRA_4 & EXTRA_11 & ~10%>15% of the time there is an additional random extra as well. 
+
+**Extra:** I'm not sure how much use this will be or whether it even applies to any cars other than the [Dodge Dart](https://www.gta5-mods.com/vehicles/68-dodge-dart-hemi-add-on-livery-animated-hq) I was testing but I'll mention it anyway.
+I was able to enter '**FLAG_EXTRAS_RARE**' & '**FLAG_EXTRAS_SCRIPT**' in the '**<flags>**' line in combination with the two edits & was able to have EXTRA_4 & EXTRA_11 spawn all of the time but restict the random (~10%>15% of the time) EXTRA to only be able to select EXTRA_1, EXTRA_2 or EXTRA_3 (no other higher numbered random EXTRAS appeared in ~350 or so spawns). It may be pure luck GTA unicorns but it worked out rather well so try it out if you think that it might suit your need :thumbsup:
