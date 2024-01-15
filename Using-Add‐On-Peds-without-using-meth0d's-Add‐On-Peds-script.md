@@ -5,7 +5,8 @@ Suffering from emotional drainage that each update might potentially break this 
 #### No worries, there's still HOPE! All you need is 5 things »
 >- 1. [**This addonmaps dlcpack template (new link)  »**](https://www.mediafire.com/file/nvpyoy6b1lcpn24/addonpeds.zip/file), to be placed in your **```mods\update\x64\dlcpacks```** inside an **addonpeds folder** and of course with the line added to your dlclist.xml in **```\mods\update\update.rpf```**; this will contain your added peds;
 >- 2. [**Simple Trainer for GTA V by Sjaak »**](https://www.gta5-mods.com/scripts/simple-trainer-for-gtav), to be placed in your game base folder; this will be the tool to spawn the Add-On ped by entering the name (or, alternatively use Menyoo);
->- 3. [**ReSpawnfix.asi by Unknown Modder, only available inside Grand Theft Space [.NET] »**](https://www.gta5-mods.com/misc/grand-theft-space-net-gts-devs), to be placed in your game base folder; this will prevent the game from crashing when you die as an Add-On Ped;
+>- 3. [**ReSpawnfix.asi by Unknown Modder, only available inside Grand Theft Space [.NET] »**](https://www.gta5-mods.com/misc/grand-theft-space-net-gts-devs), to be placed in your game base folder; this will prevent the game from crashing when you die as an Add-On Ped (note, since 2020 there are alternatives to this such as
+https://www.gta5-mods.com/scripts/improved-pedselector;
 >- 4. [**Character Swap by Unknown Modder »**](https://www.gta5-mods.com/scripts/character-swap); this will be needed if you want your Add-On ped to be played on missions and have money;
 >- 5. stamina and perserverance while you're learning this alternative route;
 >
@@ -30,20 +31,17 @@ Before you start, open the peds.xml file and examine it. It is grouped by differ
 #### For this guide I used [Black Widow by mstfa, which is a streamed ped](https://www.gta5-mods.com/player/black-widow)
 >
 #### Step 1, download your ped and rename to your choice, open OpenIV and navigate to the addonpeds dlcpack »
-![<insert image>](https://cdn.discordapp.com/attachments/534296061888561172/535404201610838026/step1.jpg)
+![<insert image>](https://i.imgur.com/mcGA9p0.jpg)
 >
 #### Step 2, import the ped files into the addonmaps dlcpack, **drag them inside a peds.rpf** »
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/535404212545257472/step2.jpg)
+![alt text](https://i.imgur.com/aJypyeC.jpg)
 >
 #### Step 3, drag peds.meta outside OpenIV for easy editing, copy-paste a new meta line with the new ped name (**select the correct category as explained above!**) and drag the edited peds.meta back into the addonmaps dlcpack and check in OpenIV »
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/535404234167025674/step3.jpg)
+![alt text](https://i.imgur.com/HBsRZWy.jpg)
 >
 ### Presto, already done. Close OpenIV for safety and go play! 
-
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/534296240481894410/1.png)
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/534296509231923200/2.png)
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/534296684310691840/3.png)
-![alt text](https://cdn.discordapp.com/attachments/534296061888561172/534296723347079168/4.png)
+Use your favorite trainer and spawn the model by Model Name or search for it
+![alt text](https://i.imgur.com/Ds7xE0X.jpg)
 
 
 #### This is just a workaround until someone else steps up and creates an alternative script
