@@ -101,3 +101,54 @@ For the most part, you'll probably find the right sections just under each other
  -
 DLC '**game.dat151.rel**' & '**sounds.dat54.rel**' files are prefixed with their dlc name. Like '**dlcjanuary2016_game.dat151.rel**' & '**dlcsmuggler_sounds.dat54.rel**' for example.
 Alternatively, searching for '**game.dat151.rel**' or '**sounds.dat54.rel**' will show all of those files & their locations in the game, allowing you to select the ones you want.
+
+
+# Troubleshooting
+**Troubleshooting:**
+
+**How the Three Sections are Linked:**
+The '**Vehicle**', '**VehicleEngine**' & '**VehicleEngineGranular**' sections do not *have* to be next to each other (they *usually* are, just '**VehicleEngine**' & '**VehicleEngineGranular**' swapped around sometimes), but rather than their position/order in '**game.dat151.rel**', the connections between the three sections are actually formed by the names & hashes directly under the '**Vehicle**', '**VehicleEngine**' & '**VehicleEngineGranular**' lines.
+**Example:**
+```xml
+  <Item type="Vehicle" ntOffset="362535">
+   <Name>vigero</Name> 
+   
+  <Item type="VehicleEngine" ntOffset="362542">
+   <Name>hash_E03115BB</Name>
+   
+  <Item type="VehicleEngineGranular" ntOffset="362556">
+   <Name>hash_33290B6F</Name>
+```
+**Format of Three Main Names/Hashes:**
+
+They are in this format:
+
+**Example:**
+```xml
+  <Item type="Vehicle" ntOffset="362535">
+   <Name>vigero</Name> <!-- format = 'vehiclename' -->
+   
+  <Item type="VehicleEngine" ntOffset="362542">
+   <Name>vigero_engine</Name> <!-- format = 'vehiclename_engine' -->
+   
+  <Item type="VehicleEngineGranular" ntOffset="362556">
+   <Name>vigero_granular_engine</Name> <!-- format = 'vehiclename_granular_engine' -->
+```
+& from that (once you know the format of a value ('**vehiclename_engine**' &/or **'vehiclename_granular_engine**' etc ), you can use OpenIV's Hash Generator ('**OpenIV**' > '**Tools**' > '**Hash Generator**') to confirm you are editing the right ones.
+
+So, say we want to confirm we are editing the correct vigero sections, we would first:
+
+ - find vigero in the '**game.dat151.rel.xml**' file 
+ - then scroll down to find the next '**VehicleEngine**' line:
+```xml
+  <Item type="VehicleEngine" ntOffset="362542">
+   <Name>hash_E03115BB</Name>
+``` 
+ - make a note of the hash below it ('**hash_E03115BB**'. The '**E03115BB**' part is the part you want) 
+ - then move to OpenIV's **Hash Generator** ('**OpenIV**' > '**Tools**' tab > '**Hash Generator**')
+ - Input '**vigero_engine**' in the left box 
+ - Change the '**Output format:**' (bottom leftish) to '**Hex**'
+ - Then compare the generated hex hash on the top right, (in this case '**0xE03115BB**') with the one below the '**VehicleEngine**' line we made a note of earlier.
+ - As you can see they end with the same characters/digits ('**E03115BB**')
+ - If the last 8 digits of the hashes do not match, you are editing the wrong section for that vehicle & would need to look at another '**VehicleEngine**' section hash & check that in the same way.
+ - You would use the same process to check the '**vigero_granular_engine**' (aka '**hash_33290B6F**') section name as well.
