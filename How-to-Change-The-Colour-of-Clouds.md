@@ -9,14 +9,18 @@ The names of the cloud settings in 'cloudkeyframes.xml' correlate with the 'Clou
 Example:
 
 **cloudkeyframes.xml:** 
-`<Item> 
+```xml
+	<Item> 
 	  <Name>CONTRAILSclouds</Name>
 	  <Settings>
 		<CloudList>
-		  <mProbability content="int_array">`
+		  <mProbability content="int_array">
+```
 
 **weather.xml:**
-`<CloudSettingsName>CONTRAILSclouds</CloudSettingsName>`
+```xml
+	<CloudSettingsName>CONTRAILSclouds</CloudSettingsName>
+```
 
 **Editing Cloud Colours in 'cloudkeyframes.xml':**
 
