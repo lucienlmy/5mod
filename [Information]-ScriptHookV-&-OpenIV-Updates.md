@@ -55,8 +55,6 @@
 **ADITIONAL INFORMATION**: 
 If you want to know how many and which versions of the game were released since the start of the GTA V life, **[take a look here](http://patches.rockstargames.com/prod/gtav/versioning.xml)**.
 
-This may be helpful for people who installed the latest update and wants to revert back. If for some reason when reverting back from a backup you can't play because the game and/or the Social Club versions aren't correct together, you can download an old one from there.
-
 Also, if you still didn't update your game and you want to be able to play avoiding the game from updating when launched while waiting for a new **ScriptHookV** version, use the **[NVE mod gameconfig](https://www.razedmods.com/gta-v)** by **Razed**. I use it for years already, works perfectly fine and gets updated when a new game version releases.
 
 If you use **GTA V** from **Steam** you'll need to do some other things to prevent it from updating your game before using the tool. I have a retail copy so I can't help there.
