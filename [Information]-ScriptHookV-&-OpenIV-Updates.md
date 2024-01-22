@@ -53,7 +53,7 @@
 
 
 **ADITIONAL INFORMATION**: 
-If someone needs an older **GTA V Launcher.exe** or **Social Club Setup.exe** version or you want to know how many and which versions of the game were released since the start of the GTA V life, **[take a look here](http://patches.rockstargames.com/prod/gtav/versioning.xml)**.
+If you want to know how many and which versions of the game were released since the start of the GTA V life, **[take a look here](http://patches.rockstargames.com/prod/gtav/versioning.xml)**.
 
 This may be helpful for people who installed the latest update and wants to revert back. If for some reason when reverting back from a backup you can't play because the game and/or the Social Club versions aren't correct together, you can download an old one from there.
 
