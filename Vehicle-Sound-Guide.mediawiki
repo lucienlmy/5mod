@@ -78,12 +78,12 @@ RUMPO2
 **ADDER** - Powerful W16. Bugatti Veyron!
 
 **Electric engines**
-Nothing to write here, silent hill!
+Nothing to write here, Silent Hill!
 SURGE
 VOLTIC
 
 **Diesel engines**
-Diesel engines are strange, they are mostly quite bad, basically there aint any modern turbodiesel sounds (Audi,BMW,MB etc.)
+Diesel engines are strange, they are mostly quite bad there aren't any modern turbodiesel sounds (Audi, BMW, MB, etc.)
 **CAMPER** - I like this the best of the rest.
 DLOADER
 GBURRITO2
@@ -92,7 +92,7 @@ JOURNEY
 **V8 petrol engines**
 There are quite a lot of V8s in this game. I try to categorize them, using common sense based on a lifelong interest in cars.
 
-***Straight-pipe, raw*** - Mostly used on older muscle cars. I think it is one of the most realistic engine sounds to use in the game, when to put it on an actual muscle car or car with straight pipes (catless).
+***Straight-pipe, raw*** - Mostly used on older muscle cars. I think it is one of the most realistic engine sounds to use in the game when putting it on an actual muscle car or car with straight pipes (catless).
 DUKES
 GAUNTLET - bit less loud/more muffled sound
 HOTKNIFE
