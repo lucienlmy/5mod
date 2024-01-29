@@ -1,7 +1,3 @@
-**This is a general topic about ScriptHookV**. Feel free to talk and share information about it here :)
-
-### **- Information:**
-
 **Where can we find the latest ScriptHookV update?**  
 - **[ScriptHookV Official site](http://www.dev-c.com/gtav/scripthookv/)** -> The main and most reliable source to get ScriptHookV.
 - **[ScriptHookV on GTA5-Mods.com](https://www.gta5-mods.com/tools/script-hook-v)** -> If you **Follow updates** on this page you'll get a notification when a new ScriptHookV version gets released. 
@@ -50,10 +46,9 @@
 | `February 05, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2824.0** | Game version compatibility update.
 | `March 03, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2825.0** | Game version compatibility update.
 | `June 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2944.0** | Game version compatibility update.
+| `December 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.3095.0** | Game version compatibility update.
 
 
-**ADITIONAL INFORMATION**: 
-If you want to know how many and which versions of the game were released since the start of the GTA V life, **[take a look here](http://patches.rockstargames.com/prod/gtav/versioning.xml)**.
 
 Also, if you still haven't updated your game and you want to be able to play while avoiding the game from updating when launched while waiting for a new **ScriptHookV** version, use the **[NVE mod gameconfig](https://www.razedmods.com/gta-v)** by **Razed**. I have used it for years already, works perfectly fine and gets updated when a new game version is released.
 
