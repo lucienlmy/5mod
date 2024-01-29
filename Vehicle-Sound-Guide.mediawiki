@@ -1,11 +1,11 @@
 Hello!
 
-Very often there are messed up sounds across vehicle mods.
+Very often there are messed-up sounds across vehicle mods.
 
-I started categorizing in-game engine sounds, so that it was easier for me to assign correct engine sounds onto my mods and other peoples´. I hope this list can solve many wrong sound problems and save time for modders.
+I started categorizing in-game engine sounds, so that it was easier for me to assign correct engine sounds to my mods and other peoples´. I hope this list can solve many wrong sound problems and save time for modders.
 
-I use names from hash-labels, so don´t get confused! You can copy-paste them directly under "audioNameHash".
-This is a raw-list, **BOLDED** names are my personal favourites (they somehow stood up more for me) and unbolded sounds are usually much more "generic".
+I use names from hash labels, so don´t get confused! You can copy-paste them directly under "audioNameHash".
+This is a raw list, **BOLDED** names are my personal favorites (they somehow stood up more for me) and unbolded sounds are usually much more "generic".
 
 **R4 petrol engines**
 ASEA
@@ -28,7 +28,7 @@ ORACLE
 **COMET** - Yes, this is the Porsche boxer engine.
 
 **R6 petrol engines**
-**CASCO** - Classic sports cars. In theory would fit some older BMW-s as well.
+**CASCO** - Classic sports cars. In theory would fit some older BMWs as well.
 **ELEGY** - Japanese sporty R6. RB26DETT! Or simply said - Skyline R34!
 FQ2
 GRESLEY
@@ -84,37 +84,37 @@ VOLTIC
 
 **Diesel engines**
 Diesel engines are strange, they are mostly quite bad, basically there aint any modern turbodiesel sounds (Audi,BMW,MB etc.)
-**CAMPER** - I like this the best from the rest.
+**CAMPER** - I like this the best of the rest.
 DLOADER
 GBURRITO2
 JOURNEY
 
 **V8 petrol engines**
-There are quite a lot of V8-s in this game. I try to categorize them, using common sense based on a lifelong interest in cars.
+There are quite a lot of V8s in this game. I try to categorize them, using common sense based on a lifelong interest in cars.
 
-***Straight-pipe, raw*** - Mostly used on older muscle cars. I think it is one of the most realistic engine sounds to use in game, when to put it on an actual muscle car or car with straight-pipes (catless).
+***Straight-pipe, raw*** - Mostly used on older muscle cars. I think it is one of the most realistic engine sounds to use in the game, when to put it on an actual muscle car or car with straight pipes (catless).
 DUKES
-GAUNTLET - bit less louder/more muffled sound
+GAUNTLET - bit less loud/more muffled sound
 HOTKNIFE
-**MAMBA** - my favourite of the list
+**MAMBA** - my favorite on the list
 PHOENIX
-PICADOR - bit less louder/more muffled sound
+PICADOR - bit less loud/more muffled sound
 RUINER
 SABRE
 VIGERO
 
-***Straight-pipe, raw (extreme Harley Davidson/tractor sound)*** - Basically the same, as above, but these are already tractor sounds, which You will meet on several modern era high end high porsepower tuned luxury cars.
-DOMINATOR - It may sound little different, more "higher-revving".
+***Straight-pipe, raw (extreme Harley Davidson/tractor sound)*** - Basically the same, as above, but these are already tractor sounds, which You will meet on several modern era high-end high horsepower tuned luxury cars.
+DOMINATOR - It may sound a little different, more "higher-revving".
 DUKES2
 **MARSHALL** - My personal favourite of the list, fits **godly** onto the Brabus 850 S Coupe.
-MONSTER - bit more muffled.
+MONSTER - a bit more muffled.
 **FACTION3** - Quite similar to MARSHALL, great sound though!
 SLAMVAN - more raw, than SLAMVAN3
 SLAMVAN3
 
 ***Lower-revving "calm" V8*** - most ordinary stock V8 sound ever? These are very popular on common stock daily driver V8-s, not at all such raw, as the upper ones.
 **BALLER3**
-**BLADE** - although, the variation is probably the same as on some others in the list (VOODOO, if not mistaken), this is the most essential in the list for me.
+**BLADE** - although the variation is probably the same as on some others in the list (VOODOO, if not mistaken), this is the most essential in the list for me.
 BULLET - more quiet/lower rev
 CHINO
 CHINO2
