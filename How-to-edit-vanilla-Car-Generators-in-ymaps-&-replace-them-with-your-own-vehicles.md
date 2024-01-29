@@ -50,6 +50,6 @@ This part will allow you to spawn multiple different random vehicles (one at a t
 
 In theory (**Note:** NOT tested or confirmed but confident it will work :thumbsup:) it should also be possible to follow the process in the pic above & then edit the '**<position**' line coordinates & the '**<orientX/Y**' lines to create a completely new Car Generator location. No more Codewalker knowledge brick wall of silence as far as Car Generators are concerned :thumbsup:
 
-If you come to a fork in the road & don't know which way to go. Make your path. :slight_smile: :thumbsup:
+If you come to a fork in the road & don't know which way to go. Make your path. 🙂 :thumbsup:
 
 Any questions or problems about any of this & I'll help you out :thumbsup:
