@@ -4,7 +4,7 @@ Old= mods/x64b.rpf/data/cdimages/scaleform_generic.rpf
 
 Hello everyone,
 Here is a quick tutorial on **"How to add and use custom notification icon"** *in C# / SHVDN3*
-Without any original games files replacement ! You also could use **the first part of the tutorial** & use a **different notifications way** with custom icons
+Without any original game file replacement ! You also could use **the first part of the tutorial** & use a **different notifications way** with custom icons
 So to start, you will need **OpenIV**, and a **picture in size 64x64** *(Pixels)* **in .dds type**
 You could use any software to create this picture or download it & convert.
 I'm using GIMP, which allow exporting/converting in .dds *(& is free !)*
@@ -16,7 +16,7 @@ Each notifications have 3 fields,
 * Message, obviously what it says ! (Here = Welcome to the Shop)
 
 When you have your **picture** *(in .dds)*, you will have to **put it in game file**.
-Here the picture will be call **"Icon01"**
+Here the picture will be called **"Icon01"**
 Open **OpenIV** & allow **edit**
 Go to **mods\update\update.rpf\x64\patch\data\cdimages\scaleform_generic.rpf** *(If needed dump original files to mods folder)*
 Then open **New** *(Top left)*, & click **textures dictionary** *(.ytd)*
@@ -40,7 +40,4 @@ Now we have our method, lets call it in your scripts,
 ```cs
 notifyAboveMap("~g~Information ~w~:, "~b~Welcome ~y~to ~w~the ~g~Shop") // here you put Object first & Message then
 ```
-Then **it should work** ! If not **fell free to ask** ! If anyone need **help** it will be a **pleasure** for me,
-Also if anyone have any suggestion/modifications/improvements to make the code better i'm open minded ;)
-**I really hope it will help someone**, has it took me 1 week to fully understand and find how to :P
-See you & have fun !
+Then **it should work** !
