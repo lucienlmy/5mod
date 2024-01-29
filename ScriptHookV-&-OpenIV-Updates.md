@@ -47,9 +47,3 @@
 | `March 03, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2825.0** | Game version compatibility update.
 | `June 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2944.0** | Game version compatibility update.
 | `December 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.3095.0** | Game version compatibility update.
-
-
-
-Also, if you still haven't updated your game and you want to be able to play while avoiding the game from updating when launched while waiting for a new **ScriptHookV** version, use the **[NVE mod gameconfig](https://www.razedmods.com/gta-v)** by **Razed**. I have used it for years already, works perfectly fine and gets updated when a new game version is released.
-
-If you use **GTA V** from **Steam** you'll need to do some other things to prevent it from updating your game before using the tool. I have a retail copy so I can't help there.
