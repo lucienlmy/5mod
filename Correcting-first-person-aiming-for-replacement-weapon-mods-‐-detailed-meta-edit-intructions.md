@@ -256,4 +256,6 @@ Copy and replace the lines into ("weapons.meta") in (mods)update/update.rpf/comm
 
 Hope this helps some people, I know it has been requested a lot. Let me know if something isn't clear or you are confused with any of the steps. Also feel free to post any fixes you make for any other weapon replacement in the thread, might be helpful to some people.
 
+Demo video: https://www.youtube.com/watch?v=I1htcg9mx_Q
+
 [Original post by TheGanjaFarmer](https://web.archive.org/web/20230204223224/https://forums.gta5-mods.com/topic/23704/tutorial-correcting-first-person-aiming-for-replacement-weapon-mods-detailed-meta-edit-intructions)
