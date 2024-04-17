@@ -1,6 +1,6 @@
 **Where can we find the latest ScriptHookV update?**  
 - **[ScriptHookV Official site](http://www.dev-c.com/gtav/scripthookv/)** -> The main and most reliable source to get ScriptHookV.
-- **[ScriptHookV on GTA5-Mods.com](https://www.gta5-mods.com/tools/script-hook-v)** -> If you **Follow updates** on this page you'll get a notification when a new ScriptHookV version gets released. 
+- **[ScriptHookV on GTA5-Mods.com](https://www.gta5-mods.com/tools/script-hook-v)**
 
 **How do we know if OpenIV gets updated?** Keep an eye on the following sites: 
 - **[OpenIV Official site](http://openiv.com/)**
