@@ -47,3 +47,4 @@
 | `March 03, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2825.0** | Game version compatibility update.
 | `June 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.2944.0** | Game version compatibility update.
 | `December 15, '23` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.3095.0** | Game version compatibility update.
+| `April 22, '24` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.3179.0** | Game version compatibility update.
