@@ -20,7 +20,7 @@ Example of something that __*would get help:*__
 >**Title:** Cars disappear when I spawn them!
 >
 >**Message:** 
->Hi, I'm running the latest GTA V (version 1.0.1103.2 on Steam) and I updated OpenIV, ScriptHookV, ScriptHookVDotNet. Here are the logs:
+>Hi, I'm running the latest GTA V (version 1.0.1103.2 on Steam) and I updated OpenIV, ScriptHookV, and ScriptHookVDotNet. Here are the logs:
 >
 >* asiloader.log on pastebin
 >* ScriptHookV.log on pastebin
@@ -28,10 +28,10 @@ Example of something that __*would get help:*__
 >
 >I tried disabling every mod except my trainer and Script Hook and the new cars from new DLCs still disappear!
 
-With the latter, people can spot the error much quicker (in the example, it's likely that mods to enable new DLC cars haven't been installed).
+With the latter, people can spot the error much quicker (in the example, likely, mods to enable new DLC cars haven't been installed).
 
 A few other tips:
-* Use the search function! The problem might exist before.
-* Use @mention (for example, @ikt) to mention people. It might help to mention the mod author of the mod you're having a problem with, if you haven't already done so on the mod's reaction page.
+* Use the search function! The problem might have existed before.
+* Use @mention (for example, @ikt) to mention people. It might help to mention the author of the mod you're having a problem with if you haven't already done so on the mod's reaction page.
 * If it's a script mod, check if it has logs of its own. The authors usually want those to figure out what went wrong.
 * Finally, if you managed to fix it on your own, leave a comment in your own thread with how you fixed it. There's nothing more annoying than seeing a problem you have, only to have the thread end with "nvm, fixed" ;)
