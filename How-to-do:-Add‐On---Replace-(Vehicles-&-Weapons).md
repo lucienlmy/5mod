@@ -1,11 +1,7 @@
-Hello guys! This tutorial will help you to make the tedious GTA Modding a bit easier :)
+Hello guys! This tutorial will help you make the tedious GTA Modding a bit easier :)
 
-| If you want a simplified (`With Screenshots`) tutorial for vehicles: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/post/29728) 
-|:-:|
-| **Some TIPS to improve your game PERFORMANCE: [:arrow_right: Click me! :arrow_left: ](https://forums.gta5-mods.com/topic/11455/tips-vehicle-and-script-installed-mods)**
-| :flag_ea: **Spanish Translation / Traducción Española: [Click me! / Haz clic! :flag_ea:](https://forums.gta5-mods.com/post/28736)**
 
-**`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or his owner for any damage you can cause to your game (Do it at your own risk). If you didn't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
+**`WARNING`**: By reading this tutorial, you're accepting to reject any accusation against this tutorial or its owner for any damage you can cause to your game (Do it at your own risk). If you haven't read this before, do not relieve yourself from guilt. That doesn't mean that you can't ask for help.
 
  
 | INDEX
@@ -14,12 +10,12 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 - `Knowledge` **What I need to know before asking for help**
   - *How can I fix this error?*
   - *How can I spawn ADD-ON Vehicles or Weapons?*
-  - *Which bugs can do my life harder?*
-  - *Why my car has no sound?*
-  - *Why my game starts crashing when I try to add a new Add-On Folder to DLCPACKS?*
-  - *Why my game crashes when I try to go into an Add-On vehicle?*
-  - *Where I can find the DATA for each car I want to put as Add-On?*
-  - *My vehicle have some strange/missplaced corona's on headlights and taillights, how I fix that?*
+  - *Which bugs can make my life harder?*
+  - *Why my car have no sound?*
+  - *Why my game start crashing when I try to add a new Add-On Folder to DLCPACKS?*
+  - *Why my game crash when I try to go into an Add-On vehicle?*
+  - *Where I can find the DATA for each car I want to put as an Add-On?*
+  - *My vehicle have some strange/misplaced corona's on headlights and taillights, how I fix that?*
 - `Knowledge` **What I need before start using this method**
 - `Knowledge` **What contains Add-On/Replace Base Folder?**
   - Vehicles
@@ -37,9 +33,9 @@ Hello guys! This tutorial will help you to make the tedious GTA Modding a bit ea
 
 ***How can I fix this error?***
 
-- **`ERR_FIL_PACK_1`:** The total of vehicles that the game try to load is higher than the default limit, or you're using a **SCRIPT** mod that's  incompatible with the most recent game version.
+- **`ERR_FIL_PACK_1`:** The total of vehicles that the game tries to load is higher than the default limit, or you're using a **SCRIPT** mod that's  incompatible with the most recent game version.
 ***How to fix that?*** Try to use one of the "***gameconfig.xml***" available on main **GTA5-Mods** website, or check that all your **SCRIPT** mods are compatible with the most recent game version.
-- **`ERR_FIL_PACK_3`:** The size of 1 or more DLC's is higher or close to 4GB. 
+- **`ERR_FIL_PACK_3`:** The size of 1 or more DLCs is higher or close to 4GB. 
 ***How to fix that?*** Defragment "***vehicles.rpf***" and "***dlc.rpf***" files from the DLC/'s that's causing that error respectively. If this does not work it means that one or more of your ***dlc.rpf*** files have already reached a size limit and you'll need to move some mods to a brand new DLC folder.
 
 **How can I spawn ADD-ON Vehicles or Weapons?**
