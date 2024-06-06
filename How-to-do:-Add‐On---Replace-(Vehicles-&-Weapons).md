@@ -39,7 +39,7 @@ Hello guys! This tutorial will help you make the tedious GTA Modding a bit easie
 ***How to fix that?*** Defragment "***vehicles.rpf***" and "***dlc.rpf***" files from the DLC/'s that's causing that error respectively. If this does not work it means that one or more of your ***dlc.rpf*** files have already reached a size limit and you'll need to move some mods to a brand new DLC folder.
 
 **How can I spawn ADD-ON Vehicles or Weapons?**
-- If **vehicle** files are called "**chevrolet.ytd/.ytf**", in-game, use a **trainer** like **[Enhanced Native Trainer](https://es.gta5-mods.com/scripts/enhanced-native-trainer)** to spawn them. In this case, spawn will be "**chevrolet**".
+- If **vehicle** files are called "**chevrolet.ytd/.ytf**", in-game, use a **trainer** like **[Simple Trainer](https://www.gta5-mods.com/scripts/simple-trainer-for-gtav)** to spawn them. In this case, spawn will be "**chevrolet**".
 - **For weapons**, you will need to buy them in a **Ammunation Store**, can't be spawned (or I don't know how) through a Trainer.
 
 **Which bugs can do my life harder?**
@@ -68,7 +68,7 @@ Hello guys! This tutorial will help you make the tedious GTA Modding a bit easie
 - ***carcols.meta***: You'll have to check every one until you find the correct/needed data for your car. Be sure to check first ***carcols.ymt*** too, which is located in `/update/update.rpf/x64/data`.
 - ***carvariations.meta***: You can take any of the available ones and change just the lines needed (Always change the line that contains the car name with the new one, and if car does not have tuning parts in `<kits>` section, change the line inside it to `<Item>0_default_modkit</Item>`.)
 
-**My vehicle have some strange/missplaced corona's on headlights and taillights, how I fix that?**
+**My vehicle have some strange/misplaced corona's on the headlights and taillights, how I fix that?**
 
 - That's pretty easy, just open your ***carvariations.meta*** file with Notepad++ or any other text editor and replace the line similar to `<lightSettings value="918" />` ("918" value can be another value in your case) with `<lightSettings value="0" />`. This will remove that shit tailights and will align headlights.
 
@@ -76,8 +76,8 @@ Hello guys! This tutorial will help you make the tedious GTA Modding a bit easie
 |:-:|
 
 - [OpenIV](http://openiv.com/) ***(Mandatory)***
-- [NVE's Gameconfig](https://www.razedmods.com/gta-v) ***(MUST-HAVE to avoid game crashes)***. You will download the full mod but you only need to get the gameconfig from the OPTIONALS folder that's inside the package. Has been hard tested and works perfectly fine in every case.
-- [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html) or any other text editor ***(Mandatory)***
+- [NVE's Gameconfig](https://www.razedmods.com/gta-v) ***(MUST-HAVE to avoid game crashes)***. You will download the full mod but you only need to get the gameconfig from the OPTIONALS folder that's inside the package. Has been hard-tested and works perfectly fine in every case.
+- [Notepad++](https://notepad-plus-plus.org/downloads/) or any other text editor ***(Mandatory)***
 - ****Keep calm**** during the process ***(Mandatory)***
 
 | `Knowledge`: **What contains Add-On/Replace Base Folder?**
