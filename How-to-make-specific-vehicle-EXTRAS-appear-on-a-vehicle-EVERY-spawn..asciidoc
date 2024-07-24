@@ -6,7 +6,7 @@
 
  - **FLAG_EXTRAS_RARE**       - Spawn ONLY ONE RANDOM EXTRA but ONLY ~15% of the time (~85% of the time no EXTRAS will spawn).
 
-These flags (& any others) are written in the '**vehicles.meta**' '**<flags>**' line like so:
+These flags (& any others) are written in the `vehicles.meta` flags line like so:
 
 
 ```xml
@@ -16,9 +16,9 @@ They should be written all on the same line with a space between each of them.
 
 **FORCE SPECIFIC EXTRAS TO ALWAYS SPAWN:**
 
-To make this happen you need to make two small edits to your vehicle in '**vehicles.meta**'. 
+To make this happen you need to make two small edits to your vehicle in `vehicles.meta`. 
 For this example, I'm going to force EXTRA_4 & EXTRA_11 always to spawn but you can just change these values to the extras you want to have spawn (...'>EXTRA_3 EXTRA_5 EXTRA_10<'... etc for example. You can put as many extras as you like in the lines). 
-As with the above flags, the EXTRAS (below) are separated with a space.
+As with the flags above, the EXTRAS (below) are separated by a space.
 
 **1)-** Find the line:
 ```xml
