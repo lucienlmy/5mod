@@ -19,7 +19,7 @@
 |:-:|:-:|:-:|:-|
 | `June 22, '17`| [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) & [OpenIV](https://openiv.com/) | **1.0.1103.2** | Game version compatibility updates. **OpenIV** removes the **Uninstall** message. 
 | `June 28, '17` | [OpenIV](https://openiv.com/) | - | Can now be downloaded again from its **official website**.
-| `July 04, '17` | [OpenIV](https://openiv.com/) | - | **[Statement](http://gtaforums.com/topic/889348-take-two-vs-modding/page-149#entry1069702197)** published on GTAForums regarding the Take-Two company Cease & Desist letter sent to the OpenIV team.
+| `July 04, '17` | [OpenIV](https://openiv.com/) | - | **[Statement](https://gtaforums.com/topic/889348-take-two-vs-modding)** published on GTAForums regarding the Take-Two company Cease & Desist letter sent to the OpenIV team.
 | `September 04, '17` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.1180.2** | Game version compatibility update.
 | `December 18, '17` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.1290.1** | Game version compatibility update.
 | `March 28, '18` | [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) | **1.0.1365.1** | Game version compatibility update.
