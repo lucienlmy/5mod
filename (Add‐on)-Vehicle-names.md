@@ -49,8 +49,25 @@ Now open the game - when entering the car or spawning the car, it should be repr
 
 ---------------------
 
+## No existing language files
+
+Sometimes, a `dlc.rpf` may not come with language files at all. These can be added, but require a bit more work.
+
+For reference, open a `dlc.rpf` that you know works, and compare/copy over the `dlctext.meta`-related entries:
+
+* In `content.xml` specify that `dlctext.meta` exists within `dataFiles` and `filesToEnable`
+* Then copy a `dlctext.meta` to the folder (in `data/` probably). Make sure `<hasGlobalTextFile value="true"/>` is in there.
+* Create the folder structure (at `x64/data/lang/`) with the `{language}.rpf` files.
+
+It *should* work then, but I haven't attempted this myself yet, some more actions may be needed.
+
+---------------------
+
+## Hashes
+
 Note that when opening an existing language file, OpenIV may not know what's left of the `=` sign and show it as a "hash", like `0x61FF5B8B`. This hash is what the game uses to look things up. In this case, "hashing" the string "alfaromeo" results in `0x61FF5B8B`. The line `alfaromeo = Alfa Romeo` is exactly the same as `0x61FF5B8B = Alfa Romeo`.
 
 Left of `=` means the internal name or hash.
 
 Right of `=` is the actual name how it's displayed in the game.
+
